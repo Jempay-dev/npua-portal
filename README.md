@@ -6,7 +6,6 @@ University project: a staff portal for the դեկանատ and the ամբիոնն
 | Folder        | What                                             |
 | ------------- | ------------------------------------------------ |
 | `frontend/`   | React site (see `frontend/README.md`)            |
-| `login page/` | Design mockups of the login screens              |
 
 ## Run it on your computer
 
