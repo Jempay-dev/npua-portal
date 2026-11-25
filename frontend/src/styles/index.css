@@ -1,0 +1,16 @@
+/* All styles, in order. One file per area:
+   tokens      – colors, sizes, fonts (change the look here)
+   base        – reset and basic elements
+   auth        – login / activation screens
+   layout      – top bar, sidebar, page frame
+   components  – buttons, inputs, tables, cards, modal, badges…
+   pages       – styles used by only one page
+   print       – how pages look on paper / PDF */
+
+@import "./tokens.css";
+@import "./base.css";
+@import "./auth.css";
+@import "./layout.css";
+@import "./components.css";
+@import "./pages.css";
+@import "./print.css";

@@ -1,0 +1,15 @@
+# Installed libraries and build output (recreated by npm install / npm run build)
+node_modules/
+dist/
+
+# Empty lock file created by running npm in the wrong folder (the real one is in frontend/)
+/package-lock.json
+
+# Secrets and local settings
+.env
+.env.*
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
